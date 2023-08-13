@@ -1,2 +1,2 @@
 # age-calculator 
-![Age-Calculator!](desktop-preview.jpg)
+![Age-Calculator!](assets/imagesdesktop-preview.jpg)
